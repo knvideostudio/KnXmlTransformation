@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <PracticeInfo id="0F633DABFE34" name="Veterinary Center of Greater Newburyport" address1="91 Bridge Rd." address2="" city="Salisbury" state="MA" zip="01952" phone="(978) 463-3309" url="" email="Coastal2004@verizon.net" country="UNITED STATES" logo="logo.bmp" emtname="Veterinary Emergency &amp; Surgery Hospital" emtaddress="168 Crawley Falls Rd" emtcity="Brentwood" emtstate="NH" emtzip="03833" emtphone="603-642-9111">
+    <ClientInfo id="8679" firstname="Johnna" lastname="DiFronzo" title="" address1="4 Niko Way" address2="" city="Salisbury" state="MA" zip="01952" country="UNITED STATES" status="ADD">
+      <Pet id="25030" name="Bosco" species="Feline" breed="Dlh" color="Black" weight="11.50lbs" sex="Neutered" rabiestag="278-09" microchipid="" birthdate="2001-08-01" invno="184222" quantity="1" preview="Reviewed" photo="25030.jpg" allergy="No Allergies">
+        <Reminder prid="0F633DABFE34" clientid="8679" patientid="25030" invoice="184222" id="341795" name="EXW" cname="Wellness Exam" gdate="2009-06-15" ddate="2010-06-15" priority="99" />
+        <Reminder prid="0F633DABFE34" clientid="8679" patientid="25030" invoice="184222" id="341799" name="V0201" cname="Feline Rabies Vaccine 1 Year" gdate="2009-06-15" ddate="2010-06-15" priority="120" />
+        <Reminder prid="0F633DABFE34" clientid="8679" patientid="25030" invoice="184222" id="341804" name="V0226" cname="Feline Distemper Multi 3 Year" gdate="2009-06-15" ddate="2012-06-14" priority="125" />
+        <Reminder prid="0F633DABFE34" clientid="8679" patientid="25030" invoice="184222" id="341808" name="I5010" cname="Intestinal Parasite Test" gdate="2008-03-27" ddate="2009-03-27" priority="129" />
+        <Reminder prid="0F633DABFE34" clientid="8679" patientid="25030" invoice="184222" id="341807" name="V0245" cname="Feline Leukemia Vaccine Series" gdate="2009-06-15" ddate="2009-07-06" priority="134" />
+      </Pet>
+      <Pet id="25030" name="Bosco" species="Feline" breed="Dlh" color="Black" weight="11.50lbs" sex="Neutered" rabiestag="278-09" microchipid="" birthdate="2001-08-01" invno="184222" quantity="1" preview="Reviewed" photo="25030.jpg" allergy="No Allergies">
+        <Reminder prid="0F633DABFE34" clientid="8679" patientid="25030" invoice="184222" id="341795" name="EXW" cname="Wellness Exam" gdate="2009-06-15" ddate="2010-06-15" priority="99" />
+        <Reminder prid="0F633DABFE34" clientid="8679" patientid="25030" invoice="184222" id="341799" name="V0201" cname="Feline Rabies Vaccine 1 Year" gdate="2009-06-15" ddate="2010-06-15" priority="120" />
+        <Reminder prid="0F633DABFE34" clientid="8679" patientid="25030" invoice="184222" id="341804" name="V0226" cname="Feline Distemper Multi 3 Year" gdate="2009-06-15" ddate="2012-06-14" priority="125" />
+        <Reminder prid="0F633DABFE34" clientid="8679" patientid="25030" invoice="184222" id="341808" name="I5010" cname="Intestinal Parasite Test" gdate="2008-03-27" ddate="2009-03-27" priority="129" />
+        <Reminder prid="0F633DABFE34" clientid="8679" patientid="25030" invoice="184222" id="341807" name="V0245" cname="Feline Leukemia Vaccine Series" gdate="2009-06-15" ddate="2009-07-06" priority="134" />
+      </Pet>
+      <Pet id="25030" name="Bosco" species="Feline" breed="Dlh" color="Black" weight="11.50lbs" sex="Neutered" rabiestag="278-09" microchipid="" birthdate="2001-08-01" invno="184222" quantity="1" preview="Reviewed" photo="25030.jpg" allergy="No Allergies">
+        <Reminder prid="0F633DABFE34" clientid="8679" patientid="25030" invoice="184222" id="341795" name="EXW" cname="Wellness Exam" gdate="2009-06-15" ddate="2010-06-15" priority="99" />
+        <Reminder prid="0F633DABFE34" clientid="8679" patientid="25030" invoice="184222" id="341799" name="V0201" cname="Feline Rabies Vaccine 1 Year" gdate="2009-06-15" ddate="2010-06-15" priority="120" />
+        <Reminder prid="0F633DABFE34" clientid="8679" patientid="25030" invoice="184222" id="341804" name="V0226" cname="Feline Distemper Multi 3 Year" gdate="2009-06-15" ddate="2012-06-14" priority="125" />
+        <Reminder prid="0F633DABFE34" clientid="8679" patientid="25030" invoice="184222" id="341808" name="I5010" cname="Intestinal Parasite Test" gdate="2008-03-27" ddate="2009-03-27" priority="129" />
+        <Reminder prid="0F633DABFE34" clientid="8679" patientid="25030" invoice="184222" id="341807" name="V0245" cname="Feline Leukemia Vaccine Series" gdate="2009-06-15" ddate="2009-07-06" priority="134" />
+      </Pet>
+    </ClientInfo>
+  </PracticeInfo>
+  <PracticeInfo id="0F633DABFE34" name="Veterinary Center of Greater Newburyport" address1="91 Bridge Rd." address2="" city="Salisbury" state="MA" zip="01952" phone="(978) 463-3309" url="" email="Coastal2004@verizon.net" country="UNITED STATES" logo="logo.bmp" emtname="Veterinary Emergency &amp; Surgery Hospital" emtaddress="168 Crawley Falls Rd" emtcity="Brentwood" emtstate="NH" emtzip="03833" emtphone="603-642-9111">
+    <ClientInfo id="6552" firstname="Deborah" lastname="Wilson" title="" address1="PO Box 903" address2="" city="Newburyport" state="MA" zip="01950" country="UNITED STATES" status="ADD">
+      <Pet id="18025" name="Pepper" species="Feline" breed="Domestic Long Hair" color="Calico" weight="12.00lbs" sex="Spayed" rabiestag="0508-08" microchipid="" birthdate="1998-02-06" invno="184229" quantity="1" preview="Reviewed" photo="18025.jpg" allergy="No Allergies">
+        <Reminder prid="0F633DABFE34" clientid="6552" patientid="18025" invoice="184229" id="244117" name="EXW" cname="Wellness Exam" gdate="2009-06-15" ddate="2010-06-15" priority="99" />
+        <Reminder prid="0F633DABFE34" clientid="6552" patientid="18025" invoice="184229" id="244121" name="V0201" cname="Feline Rabies Vaccine 1 Year" gdate="2008-08-18" ddate="2009-08-18" priority="120" />
+        <Reminder prid="0F633DABFE34" clientid="6552" patientid="18025" invoice="184229" id="244126" name="V0226" cname="Feline Distemper Multi 3 Year" gdate="2007-06-19" ddate="2010-06-18" priority="125" />
+        <Reminder prid="0F633DABFE34" clientid="6552" patientid="18025" invoice="184229" id="244130" name="I5010" cname="Intestinal Parasite Test" gdate="2006-06-21" ddate="2007-06-21" priority="129" />
+        <Reminder prid="0F633DABFE34" clientid="6552" patientid="18025" invoice="184229" id="244128" name="V0244" cname="Feline Leukemia Vaccine 1 Year" gdate="2009-06-15" ddate="2010-06-15" priority="133" />
+      </Pet>
+    </ClientInfo>
+  </PracticeInfo>
+  <PracticeInfo id="0F633DABFE34" name="Veterinary Center of Greater Newburyport" address1="91 Bridge Rd." address2="" city="Salisbury" state="MA" zip="01952" phone="(978) 463-3309" url="" email="Coastal2004@verizon.net" country="UNITED STATES" logo="logo.bmp" emtname="Veterinary Emergency &amp; Surgery Hospital" emtaddress="168 Crawley Falls Rd" emtcity="Brentwood" emtstate="NH" emtzip="03833" emtphone="603-642-9111">
+    <ClientInfo id="6552" firstname="Deborah" lastname="Wilson" title="" address1="PO Box 903" address2="" city="Newburyport" state="MA" zip="01950" country="UNITED STATES" status="ADD">
+      <Pet id="18025" name="Pepper" species="Feline" breed="Domestic Long Hair" color="Calico" weight="12.00lbs" sex="Spayed" rabiestag="0508-08" microchipid="" birthdate="1998-02-06" invno="184229" quantity="1" preview="Review Declined" photo="18025.jpg" allergy="No Allergies">
+        <Reminder prid="0F633DABFE34" clientid="6552" patientid="18025" invoice="184229" id="244117" name="EXW" cname="Wellness Exam" gdate="2009-06-15" ddate="2010-06-15" priority="99" />
+        <Reminder prid="0F633DABFE34" clientid="6552" patientid="18025" invoice="184229" id="244121" name="V0201" cname="Feline Rabies Vaccine 1 Year" gdate="2008-08-18" ddate="2009-08-18" priority="120" />
+        <Reminder prid="0F633DABFE34" clientid="6552" patientid="18025" invoice="184229" id="244126" name="V0226" cname="Feline Distemper Multi 3 Year" gdate="2007-06-19" ddate="2010-06-18" priority="125" />
+        <Reminder prid="0F633DABFE34" clientid="6552" patientid="18025" invoice="184229" id="244130" name="I5010" cname="Intestinal Parasite Test" gdate="2006-06-21" ddate="2007-06-21" priority="129" />
+        <Reminder prid="0F633DABFE34" clientid="6552" patientid="18025" invoice="184229" id="244128" name="V0244" cname="Feline Leukemia Vaccine 1 Year" gdate="2009-06-15" ddate="2010-06-15" priority="133" />
+      </Pet>
+    </ClientInfo>
+  </PracticeInfo>
+  <PracticeInfo id="0F633DABFE34" name="Veterinary Center of Greater Newburyport" address1="91 Bridge Rd." address2="" city="Salisbury" state="MA" zip="01952" phone="(978) 463-3309" url="" email="Coastal2004@verizon.net" country="UNITED STATES" logo="logo.bmp" emtname="Veterinary Emergency &amp; Surgery Hospital" emtaddress="168 Crawley Falls Rd" emtcity="Brentwood" emtstate="NH" emtzip="03833" emtphone="603-642-9111">
+    <ClientInfo id="10651" firstname="Linda" lastname="Valle" title="" address1="58 Atlantic Avenue" address2="" city="Salisbury" state="MA" zip="01952" country="UNITED STATES" status="ADD">
+      <Pet id="30932" name="Bruschi" species="Feline" breed="Domestic Short Hair" color="Black &amp; White" weight="0.00lbs" sex="Neutered" rabiestag="280-09" microchipid="" birthdate="2005-07-01" invno="184234" quantity="1" preview="Reviewed" photo="30932.jpg" allergy="No Allergies">
+        <Reminder prid="0F633DABFE34" clientid="10651" patientid="30932" invoice="184234" id="427798" name="EXW" cname="Wellness Exam" gdate="2009-06-15" ddate="2010-06-15" priority="99" />
+        <Reminder prid="0F633DABFE34" clientid="10651" patientid="30932" invoice="184234" id="427802" name="V0201" cname="Feline Rabies Vaccine 1 Year" gdate="2009-06-15" ddate="2010-06-15" priority="120" />
+        <Reminder prid="0F633DABFE34" clientid="10651" patientid="30932" invoice="184234" id="427807" name="V0226" cname="Feline Distemper Multi 3 Year" gdate="2009-06-15" ddate="2012-06-14" priority="125" />
+        <Reminder prid="0F633DABFE34" clientid="10651" patientid="30932" invoice="184234" id="427810" name="V0245" cname="Feline Leukemia Vaccine Series" gdate="2009-06-15" ddate="2009-07-06" priority="134" />
+      </Pet>
+    </ClientInfo>
+  </PracticeInfo>
+  <PracticeInfo id="0F633DABFE34" name="Veterinary Center of Greater Newburyport" address1="91 Bridge Rd." address2="" city="Salisbury" state="MA" zip="01952" phone="(978) 463-3309" url="" email="Coastal2004@verizon.net" country="UNITED STATES" logo="logo.bmp" emtname="Veterinary Emergency &amp; Surgery Hospital" emtaddress="168 Crawley Falls Rd" emtcity="Brentwood" emtstate="NH" emtzip="03833" emtphone="603-642-9111">
+    <ClientInfo id="10651" firstname="Linda" lastname="Valle" title="" address1="58 Atlantic Avenue" address2="" city="Salisbury" state="MA" zip="01952" country="UNITED STATES" status="ADD">
+      <Pet id="30675" name="Brady" species="Canine" breed="Rat Terrier" color="Tri Color" weight="17.02lbs" sex="Neutered" rabiestag="281-09" microchipid="" birthdate="2005-11-16" invno="184234" quantity="1" preview="Reviewed" photo="30675.jpg" allergy="No Allergies">
+        <Reminder prid="0F633DABFE34" clientid="10651" patientid="30675" invoice="184234" id="423931" name="EXW" cname="Wellness Exam" gdate="2009-06-15" ddate="2010-06-15" priority="99" />
+        <Reminder prid="0F633DABFE34" clientid="10651" patientid="30675" invoice="184234" id="423948" name="LAB4DX" cname="Heartworm &amp; Tick Disease Test" gdate="2008-10-30" ddate="2009-10-30" priority="104" />
+        <Reminder prid="0F633DABFE34" clientid="10651" patientid="30675" invoice="184234" id="423936" name="V0103" cname="Canine Rabies Vaccine 3 Years" gdate="2009-06-15" ddate="2012-06-14" priority="108" />
+        <Reminder prid="0F633DABFE34" clientid="10651" patientid="30675" invoice="184234" id="423937" name="V0104" cname="Kennel Cough Vaccine 1 Year" gdate="2009-06-15" ddate="2010-06-15" priority="109" />
+        <Reminder prid="0F633DABFE34" clientid="10651" patientid="30675" invoice="184234" id="423949" name="I5010" cname="Intestinal Parasite Test" gdate="2008-10-30" ddate="2009-10-30" priority="129" />
+      </Pet>
+    </ClientInfo>
+  </PracticeInfo>
+  <totalcount card="5" cardqty="5" client="5" patient="7" reminder="33" photo="5" />
+</Root >

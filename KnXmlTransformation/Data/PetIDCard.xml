@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<petid>
+  <cards>
+    <card>
+      <clinic>
+        <id>0F633DABFE34</id>
+        <name>Veterinary Center of Greater Newburyport</name>
+        <address1>91 Bridge Rd.</address1>
+        <address2>
+        </address2>
+        <city>Salisbury</city>
+        <state>MA</state>
+        <zip>01952</zip>
+        <phone>(978) 463-3309</phone>
+        <url>
+        </url>
+        <email>Coastal2004@verizon.net</email>
+        <country>UNITED STATES</country>
+        <logo>logo.bmp</logo>
+        <emtname>Veterinary Emergency &amp; Surgery Hospital</emtname>
+        <emtaddress>168 Crawley Falls Rd</emtaddress>
+        <emtcity>Brentwood</emtcity>
+        <emtstate>NH</emtstate>
+        <emtzip>03833</emtzip>
+        <emtphone>603-642-9111</emtphone>
+      </clinic>
+      <client>
+        <pet>
+          <id>25030</id>
+          <name>Bosco</name>
+          <species>Feline</species>
+          <breed>Dlh</breed>
+          <color>Black</color>
+          <weight>11.50lbs</weight>
+          <sex>Neutered</sex>
+          <rabiestag>278-09</rabiestag>
+          <microchipid>
+          </microchipid>
+          <birthdate>2001-08-01</birthdate>
+          <invno>184222</invno>
+          <quantity>1</quantity>
+          <preview>Reviewed</preview>
+          <photo>25030.jpg</photo>
+          <allergy>No Allergies</allergy>
+          <reminders>
+            <reminder>
+              <id>341795</id>
+              <name>EXW</name>
+              <commonname>Wellness Exam</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2010-06-15</duedate>
+              <priority>99</priority>
+            </reminder>
+            <reminder>
+              <id>341799</id>
+              <name>V0201</name>
+              <commonname>Feline Rabies Vaccine 1 Year</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2010-06-15</duedate>
+              <priority>120</priority>
+            </reminder>
+            <reminder>
+              <id>341804</id>
+              <name>V0226</name>
+              <commonname>Feline Distemper Multi 3 Year</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2012-06-14</duedate>
+              <priority>125</priority>
+            </reminder>
+            <reminder>
+              <id>341808</id>
+              <name>I5010</name>
+              <commonname>Intestinal Parasite Test</commonname>
+              <dategiven>2008-03-27</dategiven>
+              <duedate>2009-03-27</duedate>
+              <priority>129</priority>
+            </reminder>
+            <reminder>
+              <id>341807</id>
+              <name>V0245</name>
+              <commonname>Feline Leukemia Vaccine Series</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2009-07-06</duedate>
+              <priority>134</priority>
+            </reminder>
+          </reminders>
+        </pet>
+        <pet>
+          <id>25030</id>
+          <name>Bosco</name>
+          <species>Feline</species>
+          <breed>Dlh</breed>
+          <color>Black</color>
+          <weight>11.50lbs</weight>
+          <sex>Neutered</sex>
+          <rabiestag>278-09</rabiestag>
+          <microchipid>
+          </microchipid>
+          <birthdate>2001-08-01</birthdate>
+          <invno>184222</invno>
+          <quantity>1</quantity>
+          <preview>Reviewed</preview>
+          <photo>25030.jpg</photo>
+          <allergy>No Allergies</allergy>
+          <reminders>
+            <reminder>
+              <id>341795</id>
+              <name>EXW</name>
+              <commonname>Wellness Exam</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2010-06-15</duedate>
+              <priority>99</priority>
+            </reminder>
+            <reminder>
+              <id>341799</id>
+              <name>V0201</name>
+              <commonname>Feline Rabies Vaccine 1 Year</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2010-06-15</duedate>
+              <priority>120</priority>
+            </reminder>
+            <reminder>
+              <id>341804</id>
+              <name>V0226</name>
+              <commonname>Feline Distemper Multi 3 Year</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2012-06-14</duedate>
+              <priority>125</priority>
+            </reminder>
+            <reminder>
+              <id>341808</id>
+              <name>I5010</name>
+              <commonname>Intestinal Parasite Test</commonname>
+              <dategiven>2008-03-27</dategiven>
+              <duedate>2009-03-27</duedate>
+              <priority>129</priority>
+            </reminder>
+            <reminder>
+              <id>341807</id>
+              <name>V0245</name>
+              <commonname>Feline Leukemia Vaccine Series</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2009-07-06</duedate>
+              <priority>134</priority>
+            </reminder>
+          </reminders>
+        </pet>
+        <pet>
+          <id>25030</id>
+          <name>Bosco</name>
+          <species>Feline</species>
+          <breed>Dlh</breed>
+          <color>Black</color>
+          <weight>11.50lbs</weight>
+          <sex>Neutered</sex>
+          <rabiestag>278-09</rabiestag>
+          <microchipid>
+          </microchipid>
+          <birthdate>2001-08-01</birthdate>
+          <invno>184222</invno>
+          <quantity>1</quantity>
+          <preview>Reviewed</preview>
+          <photo>25030.jpg</photo>
+          <allergy>No Allergies</allergy>
+          <reminders>
+            <reminder>
+              <id>341795</id>
+              <name>EXW</name>
+              <commonname>Wellness Exam</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2010-06-15</duedate>
+              <priority>99</priority>
+            </reminder>
+            <reminder>
+              <id>341799</id>
+              <name>V0201</name>
+              <commonname>Feline Rabies Vaccine 1 Year</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2010-06-15</duedate>
+              <priority>120</priority>
+            </reminder>
+            <reminder>
+              <id>341804</id>
+              <name>V0226</name>
+              <commonname>Feline Distemper Multi 3 Year</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2012-06-14</duedate>
+              <priority>125</priority>
+            </reminder>
+            <reminder>
+              <id>341808</id>
+              <name>I5010</name>
+              <commonname>Intestinal Parasite Test</commonname>
+              <dategiven>2008-03-27</dategiven>
+              <duedate>2009-03-27</duedate>
+              <priority>129</priority>
+            </reminder>
+            <reminder>
+              <id>341807</id>
+              <name>V0245</name>
+              <commonname>Feline Leukemia Vaccine Series</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2009-07-06</duedate>
+              <priority>134</priority>
+            </reminder>
+          </reminders>
+        </pet>
+        <id>8679</id>
+        <firstname>Johnna</firstname>
+        <lastname>DiFronzo</lastname>
+        <title>
+        </title>
+        <address1>4 Niko Way</address1>
+        <address2>
+        </address2>
+        <city>Salisbury</city>
+        <state>MA</state>
+        <zip>01952</zip>
+        <country>UNITED STATES</country>
+        <status>ADD</status>
+      </client>
+    </card>
+    <card>
+      <clinic>
+        <id>0F633DABFE34</id>
+        <name>Veterinary Center of Greater Newburyport</name>
+        <address1>91 Bridge Rd.</address1>
+        <address2>
+        </address2>
+        <city>Salisbury</city>
+        <state>MA</state>
+        <zip>01952</zip>
+        <phone>(978) 463-3309</phone>
+        <url>
+        </url>
+        <email>Coastal2004@verizon.net</email>
+        <country>UNITED STATES</country>
+        <logo>logo.bmp</logo>
+        <emtname>Veterinary Emergency &amp; Surgery Hospital</emtname>
+        <emtaddress>168 Crawley Falls Rd</emtaddress>
+        <emtcity>Brentwood</emtcity>
+        <emtstate>NH</emtstate>
+        <emtzip>03833</emtzip>
+        <emtphone>603-642-9111</emtphone>
+      </clinic>
+      <client>
+        <pet>
+          <id>18025</id>
+          <name>Pepper</name>
+          <species>Feline</species>
+          <breed>Domestic Long Hair</breed>
+          <color>Calico</color>
+          <weight>12.00lbs</weight>
+          <sex>Spayed</sex>
+          <rabiestag>0508-08</rabiestag>
+          <microchipid>
+          </microchipid>
+          <birthdate>1998-02-06</birthdate>
+          <invno>184229</invno>
+          <quantity>1</quantity>
+          <preview>Reviewed</preview>
+          <photo>18025.jpg</photo>
+          <allergy>No Allergies</allergy>
+          <reminders>
+            <reminder>
+              <id>244117</id>
+              <name>EXW</name>
+              <commonname>Wellness Exam</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2010-06-15</duedate>
+              <priority>99</priority>
+            </reminder>
+            <reminder>
+              <id>244121</id>
+              <name>V0201</name>
+              <commonname>Feline Rabies Vaccine 1 Year</commonname>
+              <dategiven>2008-08-18</dategiven>
+              <duedate>2009-08-18</duedate>
+              <priority>120</priority>
+            </reminder>
+            <reminder>
+              <id>244126</id>
+              <name>V0226</name>
+              <commonname>Feline Distemper Multi 3 Year</commonname>
+              <dategiven>2007-06-19</dategiven>
+              <duedate>2010-06-18</duedate>
+              <priority>125</priority>
+            </reminder>
+            <reminder>
+              <id>244130</id>
+              <name>I5010</name>
+              <commonname>Intestinal Parasite Test</commonname>
+              <dategiven>2006-06-21</dategiven>
+              <duedate>2007-06-21</duedate>
+              <priority>129</priority>
+            </reminder>
+            <reminder>
+              <id>244128</id>
+              <name>V0244</name>
+              <commonname>Feline Leukemia Vaccine 1 Year</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2010-06-15</duedate>
+              <priority>133</priority>
+            </reminder>
+          </reminders>
+        </pet>
+        <id>6552</id>
+        <firstname>Deborah</firstname>
+        <lastname>Wilson</lastname>
+        <title>
+        </title>
+        <address1>PO Box 903</address1>
+        <address2>
+        </address2>
+        <city>Newburyport</city>
+        <state>MA</state>
+        <zip>01950</zip>
+        <country>UNITED STATES</country>
+        <status>ADD</status>
+      </client>
+    </card>
+    <card>
+      <clinic>
+        <id>0F633DABFE34</id>
+        <name>Veterinary Center of Greater Newburyport</name>
+        <address1>91 Bridge Rd.</address1>
+        <address2>
+        </address2>
+        <city>Salisbury</city>
+        <state>MA</state>
+        <zip>01952</zip>
+        <phone>(978) 463-3309</phone>
+        <url>
+        </url>
+        <email>Coastal2004@verizon.net</email>
+        <country>UNITED STATES</country>
+        <logo>logo.bmp</logo>
+        <emtname>Veterinary Emergency &amp; Surgery Hospital</emtname>
+        <emtaddress>168 Crawley Falls Rd</emtaddress>
+        <emtcity>Brentwood</emtcity>
+        <emtstate>NH</emtstate>
+        <emtzip>03833</emtzip>
+        <emtphone>603-642-9111</emtphone>
+      </clinic>
+      <client>
+        <pet>
+          <id>18025</id>
+          <name>Pepper</name>
+          <species>Feline</species>
+          <breed>Domestic Long Hair</breed>
+          <color>Calico</color>
+          <weight>12.00lbs</weight>
+          <sex>Spayed</sex>
+          <rabiestag>0508-08</rabiestag>
+          <microchipid>
+          </microchipid>
+          <birthdate>1998-02-06</birthdate>
+          <invno>184229</invno>
+          <quantity>1</quantity>
+          <preview>Review Declined</preview>
+          <photo>18025.jpg</photo>
+          <allergy>No Allergies</allergy>
+          <reminders>
+            <reminder>
+              <id>244117</id>
+              <name>EXW</name>
+              <commonname>Wellness Exam</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2010-06-15</duedate>
+              <priority>99</priority>
+            </reminder>
+            <reminder>
+              <id>244121</id>
+              <name>V0201</name>
+              <commonname>Feline Rabies Vaccine 1 Year</commonname>
+              <dategiven>2008-08-18</dategiven>
+              <duedate>2009-08-18</duedate>
+              <priority>120</priority>
+            </reminder>
+            <reminder>
+              <id>244126</id>
+              <name>V0226</name>
+              <commonname>Feline Distemper Multi 3 Year</commonname>
+              <dategiven>2007-06-19</dategiven>
+              <duedate>2010-06-18</duedate>
+              <priority>125</priority>
+            </reminder>
+            <reminder>
+              <id>244130</id>
+              <name>I5010</name>
+              <commonname>Intestinal Parasite Test</commonname>
+              <dategiven>2006-06-21</dategiven>
+              <duedate>2007-06-21</duedate>
+              <priority>129</priority>
+            </reminder>
+            <reminder>
+              <id>244128</id>
+              <name>V0244</name>
+              <commonname>Feline Leukemia Vaccine 1 Year</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2010-06-15</duedate>
+              <priority>133</priority>
+            </reminder>
+          </reminders>
+        </pet>
+        <id>6552</id>
+        <firstname>Deborah</firstname>
+        <lastname>Wilson</lastname>
+        <title>
+        </title>
+        <address1>PO Box 903</address1>
+        <address2>
+        </address2>
+        <city>Newburyport</city>
+        <state>MA</state>
+        <zip>01950</zip>
+        <country>UNITED STATES</country>
+        <status>ADD</status>
+      </client>
+    </card>
+    <card>
+      <clinic>
+        <id>0F633DABFE34</id>
+        <name>Veterinary Center of Greater Newburyport</name>
+        <address1>91 Bridge Rd.</address1>
+        <address2>
+        </address2>
+        <city>Salisbury</city>
+        <state>MA</state>
+        <zip>01952</zip>
+        <phone>(978) 463-3309</phone>
+        <url>
+        </url>
+        <email>Coastal2004@verizon.net</email>
+        <country>UNITED STATES</country>
+        <logo>logo.bmp</logo>
+        <emtname>Veterinary Emergency &amp; Surgery Hospital</emtname>
+        <emtaddress>168 Crawley Falls Rd</emtaddress>
+        <emtcity>Brentwood</emtcity>
+        <emtstate>NH</emtstate>
+        <emtzip>03833</emtzip>
+        <emtphone>603-642-9111</emtphone>
+      </clinic>
+      <client>
+        <pet>
+          <id>30932</id>
+          <name>Bruschi</name>
+          <species>Feline</species>
+          <breed>Domestic Short Hair</breed>
+          <color>Black &amp; White</color>
+          <weight>0.00lbs</weight>
+          <sex>Neutered</sex>
+          <rabiestag>280-09</rabiestag>
+          <microchipid>
+          </microchipid>
+          <birthdate>2005-07-01</birthdate>
+          <invno>184234</invno>
+          <quantity>1</quantity>
+          <preview>Reviewed</preview>
+          <photo>30932.jpg</photo>
+          <allergy>No Allergies</allergy>
+          <reminders>
+            <reminder>
+              <id>427798</id>
+              <name>EXW</name>
+              <commonname>Wellness Exam</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2010-06-15</duedate>
+              <priority>99</priority>
+            </reminder>
+            <reminder>
+              <id>427802</id>
+              <name>V0201</name>
+              <commonname>Feline Rabies Vaccine 1 Year</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2010-06-15</duedate>
+              <priority>120</priority>
+            </reminder>
+            <reminder>
+              <id>427807</id>
+              <name>V0226</name>
+              <commonname>Feline Distemper Multi 3 Year</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2012-06-14</duedate>
+              <priority>125</priority>
+            </reminder>
+            <reminder>
+              <id>427810</id>
+              <name>V0245</name>
+              <commonname>Feline Leukemia Vaccine Series</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2009-07-06</duedate>
+              <priority>134</priority>
+            </reminder>
+          </reminders>
+        </pet>
+        <id>10651</id>
+        <firstname>Linda</firstname>
+        <lastname>Valle</lastname>
+        <title>
+        </title>
+        <address1>58 Atlantic Avenue</address1>
+        <address2>
+        </address2>
+        <city>Salisbury</city>
+        <state>MA</state>
+        <zip>01952</zip>
+        <country>UNITED STATES</country>
+        <status>ADD</status>
+      </client>
+    </card>
+    <card>
+      <clinic>
+        <id>0F633DABFE34</id>
+        <name>Veterinary Center of Greater Newburyport</name>
+        <address1>91 Bridge Rd.</address1>
+        <address2>
+        </address2>
+        <city>Salisbury</city>
+        <state>MA</state>
+        <zip>01952</zip>
+        <phone>(978) 463-3309</phone>
+        <url>
+        </url>
+        <email>Coastal2004@verizon.net</email>
+        <country>UNITED STATES</country>
+        <logo>logo.bmp</logo>
+        <emtname>Veterinary Emergency &amp; Surgery Hospital</emtname>
+        <emtaddress>168 Crawley Falls Rd</emtaddress>
+        <emtcity>Brentwood</emtcity>
+        <emtstate>NH</emtstate>
+        <emtzip>03833</emtzip>
+        <emtphone>603-642-9111</emtphone>
+      </clinic>
+      <client>
+        <pet>
+          <id>30675</id>
+          <name>Brady</name>
+          <species>Canine</species>
+          <breed>Rat Terrier</breed>
+          <color>Tri Color</color>
+          <weight>17.02lbs</weight>
+          <sex>Neutered</sex>
+          <rabiestag>281-09</rabiestag>
+          <microchipid>
+          </microchipid>
+          <birthdate>2005-11-16</birthdate>
+          <invno>184234</invno>
+          <quantity>1</quantity>
+          <preview>Reviewed</preview>
+          <photo>30675.jpg</photo>
+          <allergy>No Allergies</allergy>
+          <reminders>
+            <reminder>
+              <id>423931</id>
+              <name>EXW</name>
+              <commonname>Wellness Exam</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2010-06-15</duedate>
+              <priority>99</priority>
+            </reminder>
+            <reminder>
+              <id>423948</id>
+              <name>LAB4DX</name>
+              <commonname>Heartworm &amp; Tick Disease Test</commonname>
+              <dategiven>2008-10-30</dategiven>
+              <duedate>2009-10-30</duedate>
+              <priority>104</priority>
+            </reminder>
+            <reminder>
+              <id>423936</id>
+              <name>V0103</name>
+              <commonname>Canine Rabies Vaccine 3 Years</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2012-06-14</duedate>
+              <priority>108</priority>
+            </reminder>
+            <reminder>
+              <id>423937</id>
+              <name>V0104</name>
+              <commonname>Kennel Cough Vaccine 1 Year</commonname>
+              <dategiven>2009-06-15</dategiven>
+              <duedate>2010-06-15</duedate>
+              <priority>109</priority>
+            </reminder>
+            <reminder>
+              <id>423949</id>
+              <name>I5010</name>
+              <commonname>Intestinal Parasite Test</commonname>
+              <dategiven>2008-10-30</dategiven>
+              <duedate>2009-10-30</duedate>
+              <priority>129</priority>
+            </reminder>
+          </reminders>
+        </pet>
+        <id>10651</id>
+        <firstname>Linda</firstname>
+        <lastname>Valle</lastname>
+        <title>
+        </title>
+        <address1>58 Atlantic Avenue</address1>
+        <address2>
+        </address2>
+        <city>Salisbury</city>
+        <state>MA</state>
+        <zip>01952</zip>
+        <country>UNITED STATES</country>
+        <status>ADD</status>
+      </client>
+    </card>
+  </cards>
+  <cardcount>5</cardcount>
+  <clientcount>5</clientcount>
+  <patientcount>5</patientcount>
+  <remindercount>24</remindercount>
+  <cardquantity>5</cardquantity>
+  <photocount>5</photocount>
+</petid>
+
